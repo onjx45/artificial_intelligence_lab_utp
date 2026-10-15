@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary notebooks
+Untitled*.ipynb
+*_recovered.ipynb
